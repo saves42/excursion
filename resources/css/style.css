@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+    text-align: center;
+    font-family: Verdana;
+}
+
+h1 {
+    font-weight: normal;
+    color: white;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+h2 {
+    color: white;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+p, span {
+    color: gray;
+    font-size: 21px;
+}
+
+footer {
+    text-align: right;
+}
